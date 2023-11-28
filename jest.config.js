@@ -13,6 +13,6 @@ module.exports = {
       },
     },
     testEnvironmentOptions: {
-      customExportConditions: ["node", "node-addons"],
-    },
+      customExportConditions: ['node', 'node-addons'],
+    }
   };
